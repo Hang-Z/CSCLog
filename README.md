@@ -2,7 +2,7 @@
 This repo is the official implementation for CSCLog: A Component Subsequence Correlation-Aware Log Anomaly Detection Method.
 
 ## 1 Framework
-![avag](/fig/visio_final.pdf)
+![avag](./fig/fig1.jpg)
 ## 2 Prerequisites
 + Python 3.9.13
 + Pytorch 1.12.0
